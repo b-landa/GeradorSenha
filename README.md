@@ -1,5 +1,5 @@
 # GeradorSenha
-# Autor: Beatriz Landa
+// Autor: Beatriz Landa
 
 # Descrição:
 // Gerador de senhas com números, símbolos e letras maiúsculas e minúsculas.
